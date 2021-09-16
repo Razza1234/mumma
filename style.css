@@ -1,0 +1,51 @@
+.idea{
+    background-color: burlywood;
+    
+}
+td>a{
+    text-decoration: none;
+    color: white;
+  
+}
+table{
+    background-color: lightgray;
+}
+
+tr:hover{
+    background-color: red;
+    color: lightgreen;
+ }
+ 
+ h3:hover{
+     color: lightgreen;
+     background-color: lightslategray;
+     border: solid lime;
+ }
+ .well{
+     background-color: magenta;
+ }
+
+ .raza{
+     border: black 30px solid ;
+     width: 50%;
+ }
+ img{
+     width: 100%;
+ }
+ .apiya{
+    border: black 30px solid ;
+    width: 50%;
+}
+.mumma{
+    border: black 30px solid ;
+    width: 50%;
+}
+
+.duha{
+    background-color: brown;
+
+}
+#mm{
+    border: cyan;
+}
+ 
